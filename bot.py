@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, MessageHandler, filters
 
 # Ваш токен
-BOT_TOKEN = '7463015885:AAHfaGE7dsDtFqjB0etioHSS36izMRo082w'
+BOT_TOKEN = 'my token'
 
 # Переменная для хранения приветственного сообщения
 welcome_text = "Привет! Спасибо, что добавили меня в группу! 😊"
